@@ -1,0 +1,17 @@
+# dependencies / build
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+next-env.d.ts
+
+# supplier data — internal only, never commit or publish
+web/data/private/
+web/data/inquiries/
+scripts/raw/
+*.xlsx
+
+# misc
+.DS_Store
+Thumbs.db
+.env*.local

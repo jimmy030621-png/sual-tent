@@ -1,0 +1,89 @@
+@import "tailwindcss";
+
+@theme {
+  /* Forest green & cream palette — Saul Tents brand */
+  --color-pine-50: #f1f5f2;
+  --color-pine-100: #dee8e0;
+  --color-pine-200: #bdd1c1;
+  --color-pine-300: #94b29b;
+  --color-pine-400: #699075;
+  --color-pine-500: #4b7357;
+  --color-pine-600: #395c45;
+  --color-pine-700: #2d4a38;
+  --color-pine-800: #243c2d;
+  --color-pine-900: #1b2f23;
+  --color-pine-950: #101d15;
+
+  --color-cream-50: #faf7f0;
+  --color-cream-100: #f4eee0;
+  --color-cream-200: #e9dfc9;
+  --color-cream-300: #d9c9a8;
+
+  --color-clay-100: #f4e3d5;
+  --color-clay-300: #dca87f;
+  --color-clay-500: #b06a3b;
+  --color-clay-600: #98562c;
+  --color-clay-700: #7d4523;
+
+  --color-ink: #182019;
+
+  --font-display: var(--font-fraunces), "Georgia", ui-serif, serif;
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-cream-50);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background-color: var(--color-pine-700);
+  color: var(--color-cream-50);
+}
+
+@layer components {
+  .container-site {
+    @apply mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8;
+  }
+
+  .eyebrow {
+    @apply text-[11px] font-semibold uppercase tracking-[0.22em] text-clay-500;
+  }
+
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-full px-6 py-3 text-sm font-semibold transition-colors duration-200 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-pine-600;
+  }
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 rounded-full px-6 py-3 text-sm font-semibold transition-colors duration-200 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-pine-600 bg-pine-800 text-cream-50 hover:bg-pine-700;
+  }
+  .btn-cream {
+    @apply inline-flex items-center justify-center gap-2 rounded-full px-6 py-3 text-sm font-semibold transition-colors duration-200 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-pine-600 bg-cream-50 text-pine-900 hover:bg-cream-200;
+  }
+  .btn-outline {
+    @apply inline-flex items-center justify-center gap-2 rounded-full px-6 py-3 text-sm font-semibold transition-colors duration-200 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-pine-600 border border-pine-800/25 text-pine-900 hover:border-pine-800 hover:bg-pine-800 hover:text-cream-50;
+  }
+  .btn-outline-light {
+    @apply inline-flex items-center justify-center gap-2 rounded-full px-6 py-3 text-sm font-semibold transition-colors duration-200 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-pine-600 border border-cream-50/40 text-cream-50 hover:bg-cream-50 hover:text-pine-900;
+  }
+
+  .card {
+    @apply rounded-2xl border border-cream-200 bg-white shadow-sm transition-shadow duration-200;
+  }
+  .card-hover {
+    @apply hover:shadow-lg hover:shadow-pine-900/10;
+  }
+
+  .input {
+    @apply w-full rounded-xl border border-cream-300 bg-white px-4 py-2.5 text-sm text-ink placeholder:text-ink/40 focus:border-pine-600 focus:outline-none focus:ring-2 focus:ring-pine-600/20;
+  }
+
+  .label {
+    @apply mb-1.5 block text-xs font-semibold uppercase tracking-wider text-pine-800;
+  }
+}

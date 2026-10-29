@@ -1,0 +1,2554 @@
+{
+ "generatedAt": "2026-10-29",
+ "source": "2026年悦利（海川户外）统一批发价.xlsx",
+ "categories": [
+  {
+   "slug": "tents",
+   "name": "Tents",
+   "tagline": "Camping, family & event tents"
+  },
+  {
+   "slug": "canopies",
+   "name": "Canopies & Tarps",
+   "tagline": "Pole canopies, tarps & shades"
+  },
+  {
+   "slug": "accessories",
+   "name": "Accessories",
+   "tagline": "Poles, mats, furniture & gear"
+  }
+ ],
+ "products": [
+  {
+   "id": "tn-1-door-2-window-tunnel-tent",
+   "category": "tents",
+   "nameEn": "1-Door 2-Window Tunnel Tent",
+   "nameZh": "一门两窗隧道",
+   "coating": null,
+   "images": [
+    "/images/products/tn-1-door-2-window-tunnel-tent-1.webp",
+    "/images/products/tn-1-door-2-window-tunnel-tent-2.webp"
+   ],
+   "accessories": "前沿 poles ∅7.9, 3.16 m fiberglass poles ×1 pcs, 120 door poles, 5×17 steel pegs 14 pcs 8 pcs guy lines",
+   "variants": [
+    {
+     "size": "with extension: inner tent: 210×180×112 outer tent 220×190×112",
+     "packing": "80*27*18"
+    },
+    {
+     "size": "without extension , inner tent 210×180×112 , outer tent篷 220×190×112"
+    }
+   ]
+  },
+  {
+   "id": "tn-2-door-2-window-tent",
+   "category": "tents",
+   "nameEn": "2-Door 2-Window Tent",
+   "nameZh": "两门两窗",
+   "coating": "silver",
+   "images": [
+    "/images/products/tn-2-door-2-window-tent-1.webp"
+   ],
+   "fabric": "outdoor camping tent: 1, fabric 170T涤丝 silver-coated, 2, floor fabric: 210D Oxford waterproof fabric 3, 纱: B4 mosquito-proof high-density mesh window 4, frame fiberglass frame 5, with 件: steel pegs 8 pcs, guy lines 4 pcs. carry bag 1 pcs",
+   "accessories": "steel pegs guy lines a pack of (steel pegs 8 pcs, guy lines 6 pcs)",
+   "variants": [
+    {
+     "size": "200×200×135",
+     "weightKg": "2.8",
+     "packing": "75*15*15",
+     "carton": "77*48*33   （6个装）",
+     "qtyPerCarton": "77*38*38（10套）"
+    }
+   ],
+   "specs": [
+    {
+     "label": "fabric",
+     "value": "170T涤丝 silver-coated"
+    },
+    {
+     "label": "floor",
+     "value": "210D Oxford waterproof fabric"
+    },
+    {
+     "label": "mesh",
+     "value": "B4 mosquito-proof high-density mesh window"
+    },
+    {
+     "label": "frame",
+     "value": "fiberglass frame"
+    },
+    {
+     "label": "accessories",
+     "value": "steel pegs 8 pcs, guy lines 4 pcs. carry bag 1 pcs"
+    }
+   ]
+  },
+  {
+   "id": "tn-2-door-2-window-tunnel-tent",
+   "category": "tents",
+   "nameEn": "2-Door 2-Window Tunnel Tent",
+   "nameZh": "两门两窗隧道帐",
+   "coating": null,
+   "images": [
+    "/images/products/tn-2-door-2-window-tunnel-tent-1.webp"
+   ],
+   "accessories": "前沿 poles ∅7.9, 3.6 m fiberglass poles ×2 pcs, 145 door poles.5×17 steel pegs 20 pcs, 3 m guy lines 8 pcs, 加 tensioner tabs",
+   "variants": [
+    {
+     "size": "with extension: inner tent: 360×210×150 outer tent 370×220×150",
+     "packing": "105*36*20"
+    }
+   ]
+  },
+  {
+   "id": "tn-2-door-2-window-tunnel-tent-2",
+   "category": "tents",
+   "nameEn": "2-Door 2-Window Tunnel Tent (II)",
+   "nameZh": "两门两窗隧道帐",
+   "coating": null,
+   "images": [
+    "/images/products/tn-2-door-2-window-tunnel-tent-2-1.webp"
+   ],
+   "accessories": "前没 door poles ∅7.9×423 m ×2 pcs, 16-tube 1.8 m,.5×17 steel pegs 24 pcs, 3 m guy lines 8 pcs, 加 tensioner tabs",
+   "variants": [
+    {
+     "size": "without extension inner tent 280×240×150, outer tent 290×250×150"
+    }
+   ]
+  },
+  {
+   "id": "bc-2-person-camping-tent",
+   "category": "tents",
+   "nameEn": "2-Person Camping Tent",
+   "nameZh": "200*140*110",
+   "coating": null,
+   "images": [
+    "/images/products/bc-2-person-camping-tent-1.webp"
+   ],
+   "accessories": "size: 200×140×110cm fabric: 190T silver-coated fabric tent 底部: 210D Oxford fabric frame: fiberglass 棒 with 件: 手提包, tent 钉 内置 storage pocket 1 pcs 8 pcs steel pegs 4 pcs guy lines",
+   "variants": [
+    {
+     "size": "200×140×110cm",
+     "weightKg": "2.15",
+     "packing": "14*14*66"
+    }
+   ]
+  },
+  {
+   "id": "bc-3-4-person-dome-tent",
+   "category": "tents",
+   "nameEn": "3–4 Person Dome Tent",
+   "nameZh": "3-4人双人帐篷",
+   "coating": null,
+   "images": [
+    "/images/products/bc-3-4-person-dome-tent-1.webp"
+   ],
+   "accessories": "3-4 人的双人 tent, 200×200×135cm, flysheet material: 180T silver 橡胶 fabric inner tent material: 180T polyester 丝纺纱 floor: 210D Oxford fabric frame: fiberglass poles 7.9mm 11 pcs 铁 steel pegs, 5 pcs 防 guy lines. storage pocket quantity: 2 pcs",
+   "notes": "inner door double panel 240×2条, 内 window single panel 150×2条, outer door double panel 103×2条, 外包 single panel 81×1条",
+   "variants": [
+    {
+     "size": "200×200×135cm",
+     "weightKg": "2.95",
+     "packing": "64*13*13",
+     "notes": "内门双片240*2条，内窗单片150*2条，外门双片103*2条，外包单片81*1条"
+    }
+   ]
+  },
+  {
+   "id": "bc-3-4-person-double-layer-dome-tent",
+   "category": "tents",
+   "nameEn": "3–4 Person Double-Layer Dome Tent",
+   "nameZh": "3-4人单门双层帐篷",
+   "coating": null,
+   "images": [
+    "/images/products/bc-3-4-person-double-layer-dome-tent-1.webp"
+   ],
+   "accessories": "3-4人单门双层 tent, size: 200×200×135CM flysheet material: 180T silver 橡胶 fabric inner tent material: 180T polyester 丝纺纱 floor: 210D Oxford fabric frame: fiberglass poles 7.9mm 1块 top fabric, 4 pcs 铁 steel pegs. storage pocket quantity: 2 pcs 6 pcs steel pegs, 2 pcs guy lines",
+   "notes": "double panel 245×4条, 外包 single panel 81×1条",
+   "variants": [
+    {
+     "size": "200×200×135cm",
+     "weightKg": "2.2",
+     "packing": "64*13*13",
+     "notes": "双片245*4条，外包单片81*1条。"
+    }
+   ]
+  },
+  {
+   "id": "tn-6-person-family-tent",
+   "category": "tents",
+   "nameEn": "6-Person Family Tent",
+   "nameZh": "6人帐篷",
+   "coating": null,
+   "images": [
+    "/images/products/tn-6-person-family-tent-1.webp"
+   ],
+   "accessories": "canopy poles 16-tube 2 m 2 pcs, 2 m guy lines 4 pcs, 3 m guy lines 6 pcs, 16 steel pegs 4×21",
+   "variants": [
+    {
+     "size": "310/280/230纱网帐带canopy",
+     "packing": "30*20*75"
+    }
+   ]
+  },
+  {
+   "id": "tn-a-frame-canopy-tarp",
+   "category": "tents",
+   "nameEn": "A-Frame Canopy Tarp",
+   "nameZh": "A塔天幕",
+   "coating": null,
+   "images": [
+    "/images/products/tn-a-frame-canopy-tarp-1.webp"
+   ],
+   "accessories": "canopy poles 25-tube ×2.4 m height 1 pairs, 22-tube 2.2 m canopy poles 1 pairs, 13-tube 1.45 door poles 1 pairs, threaded steel steel pegs 2 pcs, glow-in-the-dark steel pegs 6×23的20 pcs, 5.0的 guy lines 3 m length 8 pcs, 4.0 guy lines 2 m length 2 pcs",
+   "variants": [
+    {
+     "size": "500×360×240",
+     "packing": "70*29*28"
+    }
+   ]
+  },
+  {
+   "id": "tn-air-beam-canopy",
+   "category": "tents",
+   "nameEn": "Air-Beam Canopy",
+   "nameZh": "充气柱天幕",
+   "coating": null,
+   "images": [
+    "/images/products/tn-air-beam-canopy-1.webp"
+   ],
+   "fabric": "柱子 diameter 12CM",
+   "accessories": "8 pcs 6×20 steel pegs, 4 pcs 4.0×3 m 反光 guy lines",
+   "variants": [
+    {
+     "size": "400×300×240"
+    }
+   ]
+  },
+  {
+   "id": "tn-auto-ridge-tent-l",
+   "category": "tents",
+   "nameEn": "Auto Ridge Tent L",
+   "nameZh": "大屋脊自动帐篷",
+   "coating": null,
+   "images": [
+    "/images/products/tn-auto-ridge-tent-l-1.webp"
+   ],
+   "accessories": "flysheet, tent body, carry bag, awning poles 13-tube 6 pcs 160 (3 sections /2 pcs e-coating), room divider, guy lines 14, steel pegs 26 pcs",
+   "notes": "tent pcs 骨用∮16+19mm aluminum poles telescopic: 2.74m/3 sections ×4K+2.585M/3 sections ×2K+1.02M/1 sections ×2 pcs 带角 三盘头组合",
+   "variants": [
+    {
+     "size": "inner: 390×270×185 outer tent篷 395×270×185",
+     "weightKg": "15",
+     "packing": "106*40*23",
+     "carton": "108*50*43（2个装）",
+     "notes": "帐篷支骨用∮16+19mm铝杆伸缩：2.74m/3节*4K+2.585M/3节*2K+1.02M/1节*2根带角度  三盘头组合"
+    }
+   ]
+  },
+  {
+   "id": "tn-auto-ridge-tent-s",
+   "category": "tents",
+   "nameEn": "Auto Ridge Tent S",
+   "nameZh": "小屋脊自动帐篷",
+   "coating": null,
+   "images": [
+    "/images/products/tn-auto-ridge-tent-s-1.webp"
+   ],
+   "accessories": "5×17CM steel pegs 14 pcs, 2 m guy lines 8 pcs 3.0带 tensioner tabs, 4.0 guy lines 3 m 的2 pcs, awning poles 4 pcs 1.4 m",
+   "notes": "∅11MM solid 玻 poles +16+19 telescopic aluminum poles, pcs 骨 length 2.105 m /3 sections (带角) ×4K+连 poles 1.43/2 sections (telescopic) 3K双盘头反装式",
+   "variants": [
+    {
+     "size": "外径240×210×150 内径230×200×145",
+     "weightKg": "7.8",
+     "packing": "88*23*23",
+     "notes": "∅11MM实心玻杆+16+19伸缩铝杆，支骨长2.105米/3节（带角度）*4K+连杆1.43/2节（伸缩）3K双盘头反装式"
+    }
+   ]
+  },
+  {
+   "id": "bc-beach-canopy",
+   "category": "tents",
+   "nameEn": "Beach Canopy",
+   "nameZh": "沙滩天幕",
+   "coating": null,
+   "images": [
+    "/images/products/bc-beach-canopy-1.webp"
+   ],
+   "variants": [
+    {}
+   ]
+  },
+  {
+   "id": "bc-beach-car-tent",
+   "category": "tents",
+   "nameEn": "Beach Car Tent",
+   "nameZh": "海滩汽车帐篷",
+   "coating": null,
+   "images": [
+    "/images/products/bc-beach-car-tent-1.webp"
+   ],
+   "accessories": "海滩汽车 tent size: 190× 115 × 120 cm material: polyester 190T PU floor: polyester 190T PU frame: fiberglass poles 8.5mm storage pocket quantity: 1 pcs 8 pcs steel pegs, 4 pcs guy lines",
+   "notes": "外包 zipper 87 single panel",
+   "variants": [
+    {
+     "size": "190×115×120",
+     "weightKg": "1.6",
+     "packing": "66*12*12",
+     "notes": "外包拉链87单片"
+    }
+   ]
+  },
+  {
+   "id": "tn-beach-tent",
+   "category": "tents",
+   "nameEn": "Beach Tent",
+   "nameZh": "沙滩帐篷",
+   "coating": null,
+   "images": [
+    "/images/products/tn-beach-tent-1.webp",
+    "/images/products/tn-beach-tent-2.webp"
+   ],
+   "variants": [
+    {
+     "size": "200×120×120",
+     "qtyPerCarton": "90*33*34   （10个装）"
+    },
+    {
+     "size": "213×133×120",
+     "qtyPerCarton": "99*28*43（8个装）"
+    }
+   ]
+  },
+  {
+   "id": "bc-beach-tent",
+   "category": "tents",
+   "nameEn": "Beach Tent",
+   "nameZh": "沙滩帐篷",
+   "coating": null,
+   "images": [
+    "/images/products/bc-beach-tent-1.webp"
+   ],
+   "accessories": "beach tent size: 220×120×120CM material: 170T polyester / AC 350mm frame: 6.9mm 纤维 poles floor: PE storage pocket quantity: 1 pcs 6 pcs steel pegs, 2 pcs guy lines",
+   "notes": "外包 zipper 69 single panel",
+   "variants": [
+    {
+     "size": "220×120×120cm",
+     "weightKg": "1.05",
+     "packing": "8*8*54",
+     "carton": "54*8.2*8.2",
+     "notes": "外包拉链69单片，"
+    }
+   ]
+  },
+  {
+   "id": "tn-beetle-tunnel-tent",
+   "category": "tents",
+   "nameEn": "Beetle Tunnel Tent",
+   "nameZh": "甲壳虫隧道帐",
+   "coating": null,
+   "images": [
+    "/images/products/tn-beetle-tunnel-tent-1.webp"
+   ],
+   "variants": [
+    {
+     "size": "480×260×200"
+    }
+   ]
+  },
+  {
+   "id": "tn-blackout-screen-house-210",
+   "category": "tents",
+   "nameEn": "Blackout Screen House 210",
+   "nameZh": "黑胶小四面",
+   "coating": null,
+   "images": [],
+   "fabric": "outdoor camping tent: 1, fabric 15×19 Oxford (210D) waterproof silver-coated fabric 2, floor fabric: 210D Oxford waterproof fabric 3, 纱: B4 mosquito-proof high-density mesh window 4, frame fiberglass frame 5, with 件: all powder-coated metal door poles 2 pcs 120, steel pegs 10 pcs, 4.0 guy lines 6 pcs. carry bag 1 pcs",
+   "accessories": "awning poles 120 height 13-tube 2 pcs (4 sections), steel pegs guy lines a pack of (steel pegs 10 pcs, guy lines 6 pcs)",
+   "notes": "top cover 边 length 105, height 58",
+   "variants": [
+    {
+     "size": "210×210×145",
+     "weightKg": "3.8",
+     "packing": "78*16*16",
+     "carton": "80*35*51   （6个装）",
+     "qtyPerCarton": "80*48*32  （8个装）",
+     "notes": "顶盖边长105，高58"
+    }
+   ],
+   "specs": [
+    {
+     "label": "fabric",
+     "value": "15×19 Oxford (210D) waterproof silver-coated fabric"
+    },
+    {
+     "label": "floor",
+     "value": "210D Oxford waterproof fabric"
+    },
+    {
+     "label": "mesh",
+     "value": "B4 mosquito-proof high-density mesh window"
+    },
+    {
+     "label": "frame",
+     "value": "fiberglass frame"
+    },
+    {
+     "label": "accessories",
+     "value": "all powder-coated metal door poles 2 pcs 120, steel pegs 10 pcs, 4.0 guy lines 6 pcs. carry bag 1 pcs"
+    }
+   ]
+  },
+  {
+   "id": "tn-blackout-screen-house-240",
+   "category": "tents",
+   "nameEn": "Blackout Screen House 240",
+   "nameZh": "黑胶大四面",
+   "coating": null,
+   "images": [],
+   "fabric": "outdoor camping tent: 1, fabric 15×19 Oxford (210D) waterproof silver-coated fabric 2, floor fabric: 210D Oxford waterproof fabric 3, 纱: B3 mosquito-proof high-density mesh window 4, frame fiberglass frame 5, with 件: all powder-coated metal door poles 2 pcs 145, steel pegs 10 pcs, 4.0 guy lines 6 pcs. carry bag 1 pcs",
+   "accessories": "awning poles 145 height 13-tube 2 pcs (4 sections), steel pegs guy lines a pack of (steel pegs 10 pcs, guy lines 6 pcs)",
+   "notes": "top cover 边 length 110, height 63, 大 four-sided 门盖上边88/下边155, height 122",
+   "variants": [
+    {
+     "size": "240×240×155",
+     "weightKg": "4.55",
+     "packing": "88*18*18",
+     "carton": "90*39*38  （4个装）",
+     "qtyPerCarton": "90*33*42    （6个装）",
+     "notes": "顶盖边长110，高63，大四面门盖上边88/下边155，高122"
+    }
+   ],
+   "specs": [
+    {
+     "label": "fabric",
+     "value": "15×19 Oxford (210D) waterproof silver-coated fabric"
+    },
+    {
+     "label": "floor",
+     "value": "210D Oxford waterproof fabric"
+    },
+    {
+     "label": "mesh",
+     "value": "B3 mosquito-proof high-density mesh window"
+    },
+    {
+     "label": "frame",
+     "value": "fiberglass frame"
+    },
+    {
+     "label": "accessories",
+     "value": "all powder-coated metal door poles 2 pcs 14"
+    },
+    {
+     "label": "spec",
+     "value": "steel pegs 10 pcs, 4.0 guy lines 6 pcs. carry bag 1 pcs"
+    }
+   ]
+  },
+  {
+   "id": "tn-boat-shape-tent",
+   "category": "tents",
+   "nameEn": "Boat-Shape Tent",
+   "nameZh": "船形帐",
+   "coating": null,
+   "images": [
+    "/images/products/tn-boat-shape-tent-1.webp"
+   ],
+   "accessories": "5.0纤维无碱655厘 m ×2",
+   "variants": [
+    {
+     "size": "boat shape 150×250×105",
+     "weightKg": "2",
+     "packing": "74*4.5*74",
+     "carton": "76*50*76（10个装有内箱）"
+    }
+   ]
+  },
+  {
+   "id": "tn-cabin-tent-l-2-rooms-living",
+   "category": "tents",
+   "nameEn": "Cabin Tent L (2 Rooms + Living)",
+   "nameZh": "大二室一厅",
+   "coating": null,
+   "images": [],
+   "accessories": "16-tube steel poles, 大号11.5, steel pegs 14 pcs, guy lines 8 pcs",
+   "variants": [
+    {
+     "size": "430×305×210",
+     "packing": "收纳70*31*31"
+    }
+   ]
+  },
+  {
+   "id": "tn-cabin-tent-m-1-room-living",
+   "category": "tents",
+   "nameEn": "Cabin Tent M (1 Room + Living)",
+   "nameZh": "中一室一厅",
+   "coating": null,
+   "images": [],
+   "variants": [
+    {
+     "size": "380×260×200",
+     "packing": "收纳70*29*29"
+    }
+   ]
+  },
+  {
+   "id": "tn-cabin-tent-s-1-room-living",
+   "category": "tents",
+   "nameEn": "Cabin Tent S (1 Room + Living)",
+   "nameZh": "小一室一厅",
+   "coating": null,
+   "images": [
+    "/images/products/tn-cabin-tent-s-1-room-living-1.webp"
+   ],
+   "accessories": "16-tube steel poles, 小号纤维 poles 9.5, steel pegs 14 pcs, guy lines 8 pcs",
+   "variants": [
+    {
+     "size": "310×210×185",
+     "packing": "收纳68*26*26"
+    }
+   ]
+  },
+  {
+   "id": "bc-classic-double-layer-lakeside-tent",
+   "category": "tents",
+   "nameEn": "Classic Double-Layer Lakeside Tent",
+   "nameZh": "经典双层湖畔露营",
+   "coating": null,
+   "images": [
+    "/images/products/bc-classic-double-layer-lakeside-tent-1.webp"
+   ],
+   "accessories": "经典双层 lakeside camping size: 200×140×110cm tent 底部: waterproof Oxford fabric flysheet 篷: 190T silver-coated polyester fabric inner tent 篷: 170T polyester frame: 6.9mm fiberglass poles 颜色: 如右图 red storage pocket quantity: 1 pcs 4 pcs steel pegs, 4 pcs guy lines",
+   "notes": "外包 zipper 81 single panel double panel 190×4条",
+   "variants": [
+    {
+     "size": "200×140×110cm",
+     "weightKg": "1.75",
+     "packing": "64*13*13",
+     "notes": "外包拉链81单片         双片190*4条"
+    }
+   ]
+  },
+  {
+   "id": "tn-curved-pole-tunnel-tent",
+   "category": "tents",
+   "nameEn": "Curved-Pole Tunnel Tent",
+   "nameZh": "2.5*2.5*4根弯角黑色8.5*235",
+   "coating": null,
+   "images": [
+    "/images/products/tn-curved-pole-tunnel-tent-1.webp"
+   ],
+   "accessories": "7.9×400/8 sections ×2 pcs 隧道帐门前 poles, 120 door poles, 18 pcs steel pegs, 10 pcs guy lines",
+   "variants": [
+    {
+     "size": "outer: : (65+ 250+ 50 cm) x 290 x 120 cm inner: : 235 x 270 x 110 cm",
+     "packing": "18.5*18.5*98",
+     "carton": "40*40*100（4个装）"
+    }
+   ]
+  },
+  {
+   "id": "tn-dome-connector-sheet",
+   "category": "tents",
+   "nameEn": "Dome Connector Sheet",
+   "nameZh": "穹顶连接片",
+   "coating": null,
+   "images": [
+    "/images/products/tn-dome-connector-sheet-1.webp"
+   ],
+   "variants": [
+    {
+     "weightKg": "0.65"
+    }
+   ]
+  },
+  {
+   "id": "tn-dome-mesh-inner",
+   "category": "tents",
+   "nameEn": "Dome Mesh Inner",
+   "nameZh": "穹顶纱网",
+   "coating": null,
+   "images": [
+    "/images/products/tn-dome-mesh-inner-1.webp"
+   ],
+   "variants": [
+    {
+     "weightKg": "0.3"
+    }
+   ]
+  },
+  {
+   "id": "bc-dome-screen-house-tent",
+   "category": "tents",
+   "nameEn": "Dome Screen House Tent",
+   "nameZh": "圆顶四面大帐篷",
+   "coating": null,
+   "images": [
+    "/images/products/bc-dome-screen-house-tent-1.webp"
+   ],
+   "accessories": "圆 top four-sided 大 tent size: 220 × 230 × 135 CM material: 190T polyester PU 800mm floor: PE frame: fiberglass poles 8.5mm storage pocket quantity: 2 pcs 8 pcs steel pegs, 3 pcs guy lines",
+   "notes": "inner door double panel 215×2条, outer door double panel 170×1条, window single panel 135×2条, 外包 single panel 81×1条",
+   "variants": [
+    {
+     "size": "220×230×135",
+     "weightKg": "2.6",
+     "packing": "64*13*13",
+     "notes": "内门双片215*2条，外门双片170*1条，窗单片135*2条，外包单片81*1条。。。"
+    }
+   ]
+  },
+  {
+   "id": "tn-dome-skirt-coated-no-zipper",
+   "category": "tents",
+   "nameEn": "Dome Skirt (Coated, No Zipper)",
+   "nameZh": "穹顶围布涂层没拉链",
+   "coating": null,
+   "images": [
+    "/images/products/tn-dome-skirt-coated-no-zipper-1.webp"
+   ],
+   "fabric": "coffee coating steel pegs 3 pcs",
+   "variants": [
+    {
+     "weightKg": "0.65"
+    }
+   ]
+  },
+  {
+   "id": "tn-dome-tent-quicksand-gold",
+   "category": "tents",
+   "nameEn": "Dome Tent (Quicksand Gold)",
+   "nameZh": "穹顶流沙金",
+   "coating": null,
+   "images": [
+    "/images/products/tn-dome-tent-quicksand-gold-1.webp"
+   ],
+   "fabric": "fiberglass poles 4 pcs length, 2 pcs short, tent carry bag 1 pcs, pole bag 1 pcs, steel pegs bag 1 pcs, buckle straps 4 pcs, 6×20 steel pegs 12 pcs, 5.0 guy lines 4 pcs coffee coating",
+   "variants": [
+    {
+     "size": "4.2×4.2×2.4",
+     "weightKg": "8.5",
+     "packing": "77*23.5*20.5",
+     "carton": "79*49.5*44（4个装）"
+    }
+   ]
+  },
+  {
+   "id": "bc-dome-tent-2-person",
+   "category": "tents",
+   "nameEn": "Dome Tent 2-Person",
+   "nameZh": "圆顶包2",
+   "coating": null,
+   "images": [
+    "/images/products/bc-dome-tent-2-person-1.webp"
+   ],
+   "accessories": "CARPA ESCAPE TIPO IGLO 2 PERS (圆 top 包 2) size: 200 × 120 × 95 CM material: 170T polyester PA350MM floor: PE fiberglass poles 6.9毫 m × 2 钉子: 钢 16CM × 4 logo: 50厘 m white - 2种颜色 storage pocket quantity: 1 pcs 8 pcs steel pegs, 4 pcs guy lines",
+   "notes": "门 zipper 190×4",
+   "variants": [
+    {
+     "size": "200×120×95 cm",
+     "weightKg": "1.15",
+     "notes": "门拉链190*4"
+    }
+   ]
+  },
+  {
+   "id": "bc-dome-tent-4-person-pa-1500",
+   "category": "tents",
+   "nameEn": "Dome Tent 4-Person (PA 1500)",
+   "nameZh": "圆顶包4(PA1500)",
+   "coating": null,
+   "images": [
+    "/images/products/bc-dome-tent-4-person-pa-1500-1.webp"
+   ],
+   "accessories": "圆 top 包4 size: 210×210×130CM material: 180T PA 1500-2000mm fiberglass: 7.9mm floor: PE 钉: 钢制170 cm × 4 logo: 50 cm white -2种颜色 如右图 green storage pocket quantity: 3 pcs 4 pcs steel pegs, 4 pcs guy lines",
+   "notes": "double panel 215×2条",
+   "variants": [
+    {
+     "size": "210×210×130cm",
+     "weightKg": "1.75",
+     "packing": "64*13*13",
+     "notes": "双片215*2条"
+    }
+   ]
+  },
+  {
+   "id": "bc-dome-tent-4-person-pa-300",
+   "category": "tents",
+   "nameEn": "Dome Tent 4-Person (PA 300)",
+   "nameZh": "圆顶包4",
+   "coating": null,
+   "images": [
+    "/images/products/bc-dome-tent-4-person-pa-300-1.webp"
+   ],
+   "accessories": "CARPA ESCAPE DOMEPACK 4 PERS (圆 top 包4) size: 210 × 210 × 130 CM material: polyester 170T, PA 300MM fiberglass poles - 7.90 毫 m × 2 钉子: 钢 17CM × 4 floor: PE logo: 50厘 m white - 2种颜色 storage pocket quantity: 1 pcs 8 pcs steel pegs, 4 pcs guy lines",
+   "notes": "double panel 三角175-173×1, 95 double panel ×1, single panel 81×1",
+   "variants": [
+    {
+     "size": "210×210×130 cm",
+     "weightKg": "1.8",
+     "notes": "双片三角175-173*1，95双片*1，单片81*1"
+    }
+   ]
+  },
+  {
+   "id": "bc-dome-tent-4-person-pa-300-2",
+   "category": "tents",
+   "nameEn": "Dome Tent 4-Person (PA 300) (II)",
+   "nameZh": "圆顶包4",
+   "coating": null,
+   "images": [
+    "/images/products/bc-dome-tent-4-person-pa-300-2-1.webp"
+   ],
+   "accessories": "CARPA ESCAPE DOMEPACK 4 PERS (圆 top 包4) size: 210 × 210 × 130 CM material: polyester 170T, PA 300MM fiberglass poles - 7.90 毫 m × 2 钉子: 钢 17CM × 4 floor: PE logo: 50厘 m white - 2种颜色 storage pocket quantity: 1 pcs 8 pcs steel pegs, 4 pcs guy lines",
+   "notes": "double panel 三角175-173×1, 95 double panel ×1, single panel 81×1",
+   "variants": [
+    {
+     "size": "210×210×130 cm",
+     "weightKg": "1.8",
+     "notes": "双片三角175-173*1，95双片*1，单片81*1"
+    }
+   ]
+  },
+  {
+   "id": "bc-dome-tent-6-person",
+   "category": "tents",
+   "nameEn": "Dome Tent 6-Person",
+   "nameZh": "圆顶包6",
+   "coating": null,
+   "images": [
+    "/images/products/bc-dome-tent-6-person-1.webp"
+   ],
+   "accessories": "CARPA ESCAPE DOMEPACK 6 PERS (圆 top 包6) size: 210 × 240 × 130 CM material: polyester 170T, PA 350MM fiberglass poles - 8.5 毫 m × 2 floor: PE logo: 50厘 m white - 2种颜色 storage pocket quantity: 1 pcs 8 pcs steel pegs, 4 pcs guy lines",
+   "variants": [
+    {
+     "size": "210×240×130 cm",
+     "weightKg": "1.8"
+    }
+   ]
+  },
+  {
+   "id": "tn-dome-tent-with-stove-jack",
+   "category": "tents",
+   "nameEn": "Dome Tent with Stove Jack",
+   "nameZh": "烟窗穹顶拉链款",
+   "coating": null,
+   "images": [
+    "/images/products/tn-dome-tent-with-stove-jack-1.webp"
+   ],
+   "variants": [
+    {
+     "size": "4.2×4.2×2.4",
+     "packing": "77*23.5*20.5",
+     "carton": "79*49.5*44（4个装）"
+    }
+   ]
+  },
+  {
+   "id": "tn-double-peak-event-tent-15-8-m",
+   "category": "tents",
+   "nameEn": "Double-Peak Event Tent 15×8 m",
+   "nameZh": "双峰15*8",
+   "coating": null,
+   "images": [
+    "/images/products/tn-double-peak-event-tent-15-8-m-1.webp"
+   ],
+   "variants": [
+    {}
+   ]
+  },
+  {
+   "id": "bc-family-dome-tent-300-300",
+   "category": "tents",
+   "nameEn": "Family Dome Tent 300×300",
+   "nameZh": "300*300*210",
+   "coating": null,
+   "images": [
+    "/images/products/bc-family-dome-tent-300-300-1.webp"
+   ],
+   "accessories": "size: 300×300×210cm material: 150D Oxford fabric PU800mm UPF50+ 网格: B3网格 frame: fiberglass poles 9.5mm. 2 section, UT diameter 13/16/19mm 钢 -tube, 可折叠, carry bag material: 150D polyester Oxford fabric PU600 内置 storage pocket 2 pcs 8 pcs steel pegs 4 pcs guy lines",
+   "variants": [
+    {
+     "size": "300×300×210cm",
+     "weightKg": "4.65",
+     "packing": "15*15*130"
+    }
+   ]
+  },
+  {
+   "id": "bc-family-tunnel-tent-210-180",
+   "category": "tents",
+   "nameEn": "Family Tunnel Tent 210×180",
+   "nameZh": "隧道式",
+   "coating": null,
+   "images": [
+    "/images/products/bc-family-tunnel-tent-210-180-1.webp"
+   ],
+   "accessories": "外形 size: (70+190+70) × 220 × 120cm 内部 size: 210 × 180 × 110厘 m material: 190T. PU2000mm 190 PU400+190T polyester poles: 8.5mm tent 底部: PE120g 内置 storage pocket 2 pcs 10 pcs steel pegs, guy lines 4 pcs",
+   "variants": [
+    {
+     "size": "outer: : (70+190+70) × 220×120cm inner: : 210×180×110厘 m",
+     "weightKg": "3.15",
+     "packing": "15*15*74"
+    }
+   ]
+  },
+  {
+   "id": "tn-faux-double-layer-2-door-tent",
+   "category": "tents",
+   "nameEn": "Faux Double-Layer 2-Door Tent",
+   "nameZh": "假双层两门两窗",
+   "coating": null,
+   "images": [
+    "/images/products/tn-faux-double-layer-2-door-tent-1.webp"
+   ],
+   "fabric": "Oxford fabric",
+   "variants": [
+    {
+     "size": "200×200×135",
+     "weightKg": "2.7",
+     "packing": "75*15*15",
+     "carton": "77*48*33   （6个装）",
+     "qtyPerCarton": "77*40*40（10套）"
+    }
+   ]
+  },
+  {
+   "id": "tn-faux-double-layer-tent",
+   "category": "tents",
+   "nameEn": "Faux Double-Layer Tent",
+   "nameZh": "假双层",
+   "coating": "silver",
+   "images": [
+    "/images/products/tn-faux-double-layer-tent-1.webp"
+   ],
+   "fabric": "outdoor camping tent: 1, fabric 170T涤丝 silver-coated 2, floor fabric: 210D Oxford waterproof fabric 3, 纱: B4 mosquito-proof high-density mesh window 4, frame fiberglass frame 5, with 件: steel pegs 8 pcs, guy lines 4 pcs. carry bag 1 pcs",
+   "accessories": "steel pegs guy lines a pack of (steel pegs 8 pcs, guy lines 6 pcs)",
+   "variants": [
+    {
+     "size": "200×150×125",
+     "weightKg": "2.5",
+     "packing": "66*14*14",
+     "carton": "68*59*30.5   （8个装）",
+     "qtyPerCarton": "68*40*40（10套）"
+    },
+    {
+     "size": "200×200×135",
+     "weightKg": "2.8",
+     "packing": "75*15*15",
+     "carton": "77*48*33   （6个装）",
+     "qtyPerCarton": "77*40*40（10套）",
+     "fabric": "户外露营帐篷：1、面料 170T涤丝银胶，2、底布：210D 牛津防水布  3、纱：B4防蚊高密纱窗  4、骨架  玻璃纤纤维骨架  5、配件： 地钉8根，3.0风绳4根。收纳袋1个",
+     "notes": "2*2支架1.4KG"
+    }
+   ],
+   "specs": [
+    {
+     "label": "fabric",
+     "value": "170T涤丝 silver-coated"
+    },
+    {
+     "label": "floor",
+     "value": "210D Oxford waterproof fabric"
+    },
+    {
+     "label": "mesh",
+     "value": "B4 mosquito-proof high-density mesh window"
+    },
+    {
+     "label": "frame",
+     "value": "fiberglass frame"
+    },
+    {
+     "label": "accessories",
+     "value": "steel pegs 8 pcs, guy lines 4 pcs. carry bag 1 pcs"
+    }
+   ]
+  },
+  {
+   "id": "tn-faux-double-layer-tent-oxford-210d",
+   "category": "tents",
+   "nameEn": "Faux Double-Layer Tent (Oxford 210D)",
+   "nameZh": "假双层-牛津",
+   "coating": "silver",
+   "images": [
+    "/images/products/tn-faux-double-layer-tent-oxford-210d-1.webp"
+   ],
+   "fabric": "15×19 Oxford (210D) silver-coated fabric",
+   "accessories": "steel pegs guy lines a pack of (steel pegs 8 pcs, guy lines 6 pcs)",
+   "variants": [
+    {
+     "size": "200×150×125",
+     "weightKg": "2.5",
+     "packing": "66*14*14",
+     "carton": "68*59*30.5   （8个装）",
+     "qtyPerCarton": "68*40*40（10套）"
+    },
+    {
+     "size": "200×200×135",
+     "weightKg": "2.8",
+     "packing": "75*15*15",
+     "carton": "77*48*33   （6个装）",
+     "qtyPerCarton": "77*40*40（10套）"
+    }
+   ]
+  },
+  {
+   "id": "tn-floor-window-hexagon-khaki-blackout",
+   "category": "tents",
+   "nameEn": "Floor-Window Hexagon (Khaki Blackout)",
+   "nameZh": "落地窗卡其黑胶大六角",
+   "coating": "blackout",
+   "images": [],
+   "variants": [
+    {
+     "size": "280×280×155",
+     "weightKg": "5.1",
+     "packing": "18*18*90"
+    }
+   ]
+  },
+  {
+   "id": "tn-floor-window-hexagon-with-canopy-khaki",
+   "category": "tents",
+   "nameEn": "Floor-Window Hexagon with Canopy (Khaki)",
+   "nameZh": "落地窗卡其黑胶大六角带天幕",
+   "coating": "blackout",
+   "images": [
+    "/images/products/tn-floor-window-hexagon-with-canopy-khaki-1.webp"
+   ],
+   "variants": [
+    {
+     "size": "280×280×155",
+     "weightKg": "6.5",
+     "packing": "90*19*19",
+     "carton": "90*39*38  （4个装）",
+     "qtyPerCarton": "90*33*42    （6个装）"
+    }
+   ]
+  },
+  {
+   "id": "tn-golf-event-tent",
+   "category": "tents",
+   "nameEn": "Golf Event Tent",
+   "nameZh": "高尔夫帐篷",
+   "coating": null,
+   "images": [
+    "/images/products/tn-golf-event-tent-1.webp"
+   ],
+   "accessories": "fiberglass poles 8.5,5.5 m length poles, 11 sections, 2 pcs. 4 pcs 小 steel pegs",
+   "variants": [
+    {
+     "size": "300×230×200",
+     "weightKg": "3KG",
+     "packing": "15*15*55"
+    }
+   ]
+  },
+  {
+   "id": "tn-hexagon-camping-tent",
+   "category": "tents",
+   "nameEn": "Hexagon Camping Tent",
+   "nameZh": "六角帐",
+   "coating": "silver",
+   "images": [
+    "/images/products/tn-hexagon-camping-tent-1.webp"
+   ],
+   "fabric": "outdoor camping tent 1, fabric: 15×19 Oxford (210D) waterproof silver-coated fabric (water-repellent 3000+), 2, floor fabric: 210D Oxford waterproof fabric, 3, mesh: B3 mosquito-proof high-density mesh window, 4, frame: fiberglass frame, 5, with 件: all powder-coated metal awning poles 2 pcs (13 diameter, 1 pcs 2 sections). 3.6 steel pegs 14 pcs, length 13.5cm. 4.0 guy lines 8 pcs (1.8 m), carry bag 1 pcs",
+   "accessories": "awning poles 120 height 13-tube 2 pcs (4 sections), steel pegs guy lines a pack of (steel pegs 14 pcs, guy lines 8 pcs)",
+   "variants": [
+    {
+     "size": "240×210×135",
+     "weightKg": "3.9",
+     "packing": "78*16*16",
+     "carton": "80.5*35*51   （6个装）",
+     "qtyPerCarton": "80*48*32  （8个装）"
+    }
+   ],
+   "specs": [
+    {
+     "label": "fabric",
+     "value": "15×19 Oxford (210D) waterproof silver-coated fabric (water-repellent 3000+)"
+    },
+    {
+     "label": "floor",
+     "value": "210D Oxford waterproof fabric"
+    },
+    {
+     "label": "mesh",
+     "value": "B3 mosquito-proof high-density mesh window"
+    },
+    {
+     "label": "frame",
+     "value": "fiberglass frame"
+    },
+    {
+     "label": "accessories",
+     "value": "all powder-coated metal awning poles 2 pcs (13 diameter, 1 pcs 2 sections). 3.6 steel pegs 14 pcs, length 13.5cm. 4.0 guy lines 8 pcs (1.8 m), carry bag 1 pcs"
+    }
+   ]
+  },
+  {
+   "id": "tn-hexagon-tent-blackout",
+   "category": "tents",
+   "nameEn": "Hexagon Tent (Blackout)",
+   "nameZh": "大六角黑胶",
+   "coating": "blackout",
+   "images": [
+    "/images/products/tn-hexagon-tent-blackout-1.webp"
+   ],
+   "fabric": "outdoor camping tent 1, fabric: Oxford fabric waterproof blackout-coated fabric (water-repellent 6000+), 2, floor fabric: 210D Oxford waterproof fabric, 3, mesh: B3 mosquito-proof high-density mesh window, 4, frame: fiberglass frame",
+   "accessories": "awning poles 120 height 13-tube 2 pcs (4 sections), steel pegs guy lines a pack of (steel pegs 14 pcs, guy lines 8 pcs), carry bag 1",
+   "variants": [
+    {
+     "size": "240×240×135",
+     "weightKg": "5.25",
+     "packing": "90*18*18",
+     "carton": "80*35*51   （6个装）",
+     "qtyPerCarton": "80*48*32  （8个装）"
+    }
+   ],
+   "specs": [
+    {
+     "label": "fabric",
+     "value": "Oxford fabric waterproof blackout-coated fabric (water-repellent 6000+)"
+    },
+    {
+     "label": "floor",
+     "value": "210D Oxford waterproof fabric"
+    },
+    {
+     "label": "mesh",
+     "value": "B3 mosquito-proof high-density mesh window"
+    },
+    {
+     "label": "frame",
+     "value": "fiberglass frame"
+    }
+   ]
+  },
+  {
+   "id": "tn-hexagon-tent-l-blackout",
+   "category": "tents",
+   "nameEn": "Hexagon Tent L (Blackout)",
+   "nameZh": "大六角黑胶5.25",
+   "coating": "blackout",
+   "images": [],
+   "accessories": "awning poles 145 height 13-tube 2 pcs (4 sections), steel pegs guy lines a pack of (steel pegs 14 pcs, guy lines 8 pcs)",
+   "variants": [
+    {
+     "size": "280×240×155",
+     "weightKg": "4.95",
+     "packing": "90*18*18",
+     "carton": "92*38*38  （4个装）",
+     "qtyPerCarton": "90*33*42    （6个装）"
+    }
+   ]
+  },
+  {
+   "id": "tn-hexagon-with-canopy-blackout",
+   "category": "tents",
+   "nameEn": "Hexagon with Canopy (Blackout)",
+   "nameZh": "大六角黑胶带天幕",
+   "coating": "blackout",
+   "images": [
+    "/images/products/tn-hexagon-with-canopy-blackout-1.webp"
+   ],
+   "accessories": "awning poles 145 height 13-tube 2 pcs (4 sections), steel pegs guy lines a pack of (steel pegs 14 pcs, guy lines 8 pcs) carry bag 1, 19-tube canopy poles 2 pcs",
+   "variants": [
+    {
+     "size": "280×280×155",
+     "weightKg": "7.6",
+     "packing": "90*19*19",
+     "carton": "90*39*38  （4个装）",
+     "qtyPerCarton": "90*33*42    （6个装）"
+    }
+   ]
+  },
+  {
+   "id": "tn-inflatable-tent-220-220",
+   "category": "tents",
+   "nameEn": "Inflatable Tent 220×220",
+   "nameZh": "充气帐",
+   "coating": null,
+   "images": [
+    "/images/products/tn-inflatable-tent-220-220-1.webp"
+   ],
+   "accessories": "10 pcs steel pegs 3.5×17, 6 pcs 2 m guy lines 4.0, 2 pcs 140的 awning poles",
+   "variants": [
+    {
+     "size": "220×220×170",
+     "weightKg": "6.8",
+     "packing": "30*20*76",
+     "qtyPerCarton": "30*40*76两个装无内箱13.3KG"
+    }
+   ]
+  },
+  {
+   "id": "tn-inflatable-tent-260-220",
+   "category": "tents",
+   "nameEn": "Inflatable Tent 260×220",
+   "nameZh": "充气帐篷260*220",
+   "coating": null,
+   "images": [
+    "/images/products/tn-inflatable-tent-260-220-1.webp",
+    "/images/products/tn-inflatable-tent-260-220-2.webp"
+   ],
+   "accessories": "16-tube 1.8 m canopy poles 1 pairs, 4.0 guy lines 4 pcs, 天幕 guy lines 3 m 2 pcs, 两 m 4 pcs, 14 pcs steel pegs 5.0×17, 大 air pump",
+   "variants": [
+    {
+     "size": "260×220×160, canopy 2.3×3",
+     "packing": "68*31*31"
+    }
+   ]
+  },
+  {
+   "id": "tn-inflatable-tent-320-280",
+   "category": "tents",
+   "nameEn": "Inflatable Tent 320×280",
+   "nameZh": "充气帐篷",
+   "coating": null,
+   "images": [
+    "/images/products/tn-inflatable-tent-320-280-1.webp"
+   ],
+   "variants": [
+    {
+     "size": "320×280×220",
+     "weightKg": "17.8"
+    }
+   ]
+  },
+  {
+   "id": "tn-inflatable-tent-6-3-m",
+   "category": "tents",
+   "nameEn": "Inflatable Tent 6.3 m²",
+   "nameZh": "6.3平充气帐篷",
+   "coating": null,
+   "images": [
+    "/images/products/tn-inflatable-tent-6-3-m-1.webp"
+   ],
+   "accessories": "天幕 steel pegs 16 pcs, 天幕 guy lines 10 pcs",
+   "variants": [
+    {
+     "size": "300×210",
+     "weightKg": "13.9",
+     "packing": "64*43*25"
+    }
+   ]
+  },
+  {
+   "id": "tn-inflatable-tent-with-canopy-built-in-pump",
+   "category": "tents",
+   "nameEn": "Inflatable Tent with Canopy (Built-in Pump)",
+   "nameZh": "一门三窗内置泵充气帐带天幕",
+   "coating": null,
+   "images": [
+    "/images/products/tn-inflatable-tent-with-canopy-built-in-pump-1.webp"
+   ],
+   "accessories": "1 pairs 140 door poles, 1 pairs 16-tube 1.8 m canopy poles, 1 pcs 手动 air pump, 3.5 steel pegs 10 pcs, 4.0 guy lines 6 pcs, 4.0×21 steel pegs 6 pcs, 天幕 guy lines 2 m 的2 pcs, 3 m 的2 pcs",
+   "variants": [
+    {
+     "size": "230×230×170/3 m×2.7",
+     "packing": "30*20*76"
+    }
+   ]
+  },
+  {
+   "id": "tn-large-blackout-screen-house",
+   "category": "tents",
+   "nameEn": "Large Blackout Screen House",
+   "nameZh": "大四面黑胶",
+   "coating": "blackout",
+   "images": [
+    "/images/products/tn-large-blackout-screen-house-1.webp"
+   ],
+   "fabric": "blackout-coated Oxford",
+   "variants": [
+    {
+     "weightKg": "5.1",
+     "packing": "88*18*18"
+    }
+   ]
+  },
+  {
+   "id": "tn-large-blackout-screen-house-with-canopy",
+   "category": "tents",
+   "nameEn": "Large Blackout Screen House with Canopy",
+   "nameZh": "大四面黑胶带天幕",
+   "coating": "blackout",
+   "images": [
+    "/images/products/tn-large-blackout-screen-house-with-canopy-1.webp"
+   ],
+   "fabric": "blackout-coated Oxford",
+   "variants": [
+    {
+     "packing": "88*19*19"
+    }
+   ]
+  },
+  {
+   "id": "tn-large-screen-house-with-canopy",
+   "category": "tents",
+   "nameEn": "Large Screen House with Canopy",
+   "nameZh": "大四面带天幕",
+   "coating": null,
+   "images": [],
+   "fabric": "Oxford fabric",
+   "accessories": "小 four-sided 带天幕 with 16/180的 canopy poles ×2 pcs, 4.0的3 m guy lines 2 pcs, 2 m guy lines 4 pcs 带 plastic tensioner tabs, 4.0×21 steel pegs 16 pcs, 3.0/1.8 m 的 guy lines 6 pcs, 120的 awning poles 1 pairs",
+   "variants": [
+    {
+     "size": "tent 210×210×145canopy 3 m×2.7",
+     "weightKg": "6.7",
+     "packing": "19*19*86.5"
+    }
+   ]
+  },
+  {
+   "id": "tn-multi-panel-canopy-tarp",
+   "category": "tents",
+   "nameEn": "Multi-Panel Canopy Tarp",
+   "nameZh": "多边天幕",
+   "coating": null,
+   "images": [
+    "/images/products/tn-multi-panel-canopy-tarp-1.webp"
+   ],
+   "accessories": "天幕 fabric 1, steel pegs bag 1, pole bag 1, carry bag 1, φ19 poles 2.1 m 2 sets (4 pcs ×4 sections), 6×23 steel pegs 8 pcs, φ5.0 black 绳子6 pcs, 防风帽1",
+   "variants": [
+    {
+     "size": "370×427×210"
+    }
+   ]
+  },
+  {
+   "id": "tn-pop-up-camping-tent",
+   "category": "tents",
+   "nameEn": "Pop-up Camping Tent",
+   "nameZh": "抛帐",
+   "coating": null,
+   "images": [
+    "/images/products/tn-pop-up-camping-tent-1.webp"
+   ],
+   "fabric": "170 polyester taffeta",
+   "variants": [
+    {
+     "size": "2.1×1.5",
+     "packing": "50*50*4"
+    },
+    {
+     "size": "2×2",
+     "packing": "65*65*4"
+    }
+   ]
+  },
+  {
+   "id": "tn-pop-up-gazebo",
+   "category": "tents",
+   "nameEn": "Pop-up Gazebo",
+   "nameZh": "凉亭",
+   "coating": null,
+   "images": [
+    "/images/products/tn-pop-up-gazebo-1.webp"
+   ],
+   "accessories": "16-tube 铁 -tube 4 pcs, 4 sections / pcs steel wire 连接 both ends m² with 橡 m² 塞, fiberglass poles 2 pcs, 4 pcs guy lines, 8 pcs steel pegs 4×20",
+   "variants": [
+    {
+     "size": "330×330×240",
+     "weightKg": "6.2",
+     "packing": "61*30*12"
+    }
+   ]
+  },
+  {
+   "id": "tn-pop-up-screen-house",
+   "category": "tents",
+   "nameEn": "Pop-up Screen House",
+   "nameZh": "四面帐",
+   "coating": null,
+   "images": [
+    "/images/products/tn-pop-up-screen-house-1.webp"
+   ],
+   "fabric": "Oxford fabric",
+   "variants": [
+    {
+     "size": "270×270×155",
+     "packing": "88*15*15"
+    }
+   ]
+  },
+  {
+   "id": "tn-screen-house-with-twin-windows",
+   "category": "tents",
+   "nameEn": "Screen House with Twin Windows",
+   "nameZh": "双窗四面帐",
+   "coating": "silver",
+   "images": [
+    "/images/products/tn-screen-house-with-twin-windows-1.webp"
+   ],
+   "fabric": "outdoor camping tent 1, fabric: high-density Oxford (210D) waterproof silver-coated fabric (water-repellent 3000+), 2, floor fabric: 210D Oxford waterproof fabric, 3, mesh: B3 mosquito-proof high-density mesh window, 4, frame: fiberglass frame, 5, with 件: all powder-coated metal awning poles 2 pcs (13 diameter, 145每 pcs, 1 pcs 2 sections). steel pegs 10 pcs, guy lines 6 pcs (1.8 m), carry bag 1 pcs",
+   "accessories": "awning poles 145 height 13-tube 2 pcs (4 sections), steel pegs guy lines a pack of (steel pegs 14 pcs, guy lines 8 pcs)",
+   "variants": [
+    {
+     "size": "230×230×145",
+     "weightKg": "4.8",
+     "packing": "88*18*18",
+     "carton": "90*39*38  （4个装）",
+     "qtyPerCarton": "90*33*42    （6个装）"
+    }
+   ],
+   "specs": [
+    {
+     "label": "fabric",
+     "value": "high-density Oxford (210D) waterproof silver-coated fabric (water-repellent 3000+)"
+    },
+    {
+     "label": "floor",
+     "value": "210D Oxford waterproof fabric"
+    },
+    {
+     "label": "mesh",
+     "value": "B3 mosquito-proof high-density mesh window"
+    },
+    {
+     "label": "frame",
+     "value": "fiberglass frame"
+    },
+    {
+     "label": "accessories",
+     "value": "all powder-coated metal awning poles 2 pcs (13 diameter, 145每 pcs, 1 pcs 2 sections). steel pegs 10 pcs, guy lines 6 pcs (1.8 m), carry bag 1 pcs"
+    }
+   ]
+  },
+  {
+   "id": "tn-single-peak-event-tent-6-6-m",
+   "category": "tents",
+   "nameEn": "Single-Peak Event Tent 6×6 m",
+   "nameZh": "单峰6*6",
+   "coating": null,
+   "images": [
+    "/images/products/tn-single-peak-event-tent-6-6-m-1.webp"
+   ],
+   "variants": [
+    {}
+   ]
+  },
+  {
+   "id": "tn-small-blackout-screen-house-straight-door",
+   "category": "tents",
+   "nameEn": "Small Blackout Screen House (Straight Door)",
+   "nameZh": "小四面直门黑胶",
+   "coating": "blackout",
+   "images": [
+    "/images/products/tn-small-blackout-screen-house-straight-door-1.webp"
+   ],
+   "fabric": "blackout-coated Oxford",
+   "variants": [
+    {
+     "weightKg": "4"
+    }
+   ]
+  },
+  {
+   "id": "tn-small-screen-house-with-canopy",
+   "category": "tents",
+   "nameEn": "Small Screen House with Canopy",
+   "nameZh": "小四面带天幕",
+   "coating": null,
+   "images": [
+    "/images/products/tn-small-screen-house-with-canopy-1.webp"
+   ],
+   "fabric": "Oxford fabric",
+   "accessories": "大 four-sided 带天幕 with 16/200的 canopy poles ×2 pcs, 4.0的3 m guy lines 2 pcs, 2 m guy lines 4 pcs 带 plastic tensioner tabs, 4.0×21 steel pegs 16 pcs, 3.0/1.8 m 的 guy lines 6 pcs, 145的 awning poles 1 pairs",
+   "variants": [
+    {
+     "size": "240×240×155canopy 3 m×2.7",
+     "weightKg": "5.9",
+     "packing": "18*18*78",
+     "carton": "80*38*38   （4个装）"
+    }
+   ]
+  },
+  {
+   "id": "tn-tailgate-inflatable-tent",
+   "category": "tents",
+   "nameEn": "Tailgate Inflatable Tent",
+   "nameZh": "车尾充气帐篷",
+   "coating": null,
+   "images": [
+    "/images/products/tn-tailgate-inflatable-tent-1.webp",
+    "/images/products/tn-tailgate-inflatable-tent-2.webp"
+   ],
+   "fabric": "210D Oxford fabric",
+   "accessories": "tailgate 充气帐 with 件, PVC air beam diameter 12CM, 5×17 steel pegs 22 pcs, 4x3 m 带 tensioner tabs guy lines 14 pcs, 2 pairs 16-tube 2 m awning poles, tent net weight 17.6Kg (总 net weight 19.2kg) air pump 1 pcs",
+   "variants": [
+    {
+     "size": "475×290×235",
+     "weightKg": "19.2",
+     "packing": "内箱77x40x30cm"
+    }
+   ]
+  },
+  {
+   "id": "tn-tailgate-mesh-awning-tent",
+   "category": "tents",
+   "nameEn": "Tailgate Mesh Awning Tent",
+   "nameZh": "车尾帐网纱",
+   "coating": null,
+   "images": [
+    "/images/products/tn-tailgate-mesh-awning-tent-1.webp"
+   ],
+   "accessories": "4 pcs 3 m white 天幕 guy lines, 4 pcs 6×20 steel pegs, 另加6 pcs 3.5细 steel pegs",
+   "variants": [
+    {
+     "size": "300×200×240",
+     "weightKg": "3.2",
+     "packing": "16*16*54"
+    }
+   ]
+  },
+  {
+   "id": "tn-teepee-tent",
+   "category": "tents",
+   "nameEn": "Teepee Tent",
+   "nameZh": "印第安帐",
+   "coating": null,
+   "images": [
+    "/images/products/tn-teepee-tent-1.webp"
+   ],
+   "fabric": "Oxford fabric",
+   "accessories": "4 pcs poles 子, carry bag",
+   "variants": [
+    {
+     "size": "2.4×2.4×2.78",
+     "weightKg": "5.5"
+    },
+    {
+     "size": "3×3×3.6",
+     "weightKg": "6.45"
+    }
+   ]
+  },
+  {
+   "id": "tn-teepee-tent-with-canopy",
+   "category": "tents",
+   "nameEn": "Teepee Tent with Canopy",
+   "nameZh": "印第安帐带天幕",
+   "coating": null,
+   "images": [
+    "/images/products/tn-teepee-tent-with-canopy-1.webp"
+   ],
+   "fabric": "flysheet 68D涨纶 210D Oxford fabric aluminum poles",
+   "accessories": "poles 16-tube 258cm/5 sections ×4 pcs, canopy poles ×1, steel pegs 20, carry bag 1, 3M guy lines ×6, 2M guy lines ×4",
+   "variants": [
+    {
+     "size": "2.2×2.2×1.8",
+     "packing": "58*20*20"
+    },
+    {
+     "size": "3.2×2.93×1.8"
+    }
+   ]
+  },
+  {
+   "id": "tn-teepee-with-canopy-blackout",
+   "category": "tents",
+   "nameEn": "Teepee with Canopy (Blackout)",
+   "nameZh": "黑胶印第安带天幕",
+   "coating": "blackout",
+   "images": [
+    "/images/products/tn-teepee-with-canopy-blackout-1.webp"
+   ],
+   "fabric": "56×20×20 carry bag",
+   "accessories": "3.5×17 pcs steel pegs 20 pcs 7字 steel pegs, guy lines 6 pcs 3 m, 4 pcs 2 m, 2 pcs 1 m",
+   "variants": [
+    {
+     "size": "220×220×180, 320×293×180",
+     "weightKg": "7.05",
+     "packing": "58*20*20",
+     "carton": "60*44*44（4件装）"
+    }
+   ]
+  },
+  {
+   "id": "tn-tent-with-attached-canopy",
+   "category": "tents",
+   "nameEn": "Tent with Attached Canopy",
+   "nameZh": "帐篷搭天幕",
+   "coating": null,
+   "images": [
+    "/images/products/tn-tent-with-attached-canopy-1.webp"
+   ],
+   "accessories": "awning poles 145 height 13-tube 2 pcs (4 sections), steel pegs guy lines a pack of (steel pegs 10 pcs, guy lines 6 pcs), 16/180的 canopy poles ×2 pcs, guy lines 4 pcs, steel pegs 4 pcs 6MM×20CM",
+   "notes": "3×2.7",
+   "variants": [
+    {
+     "size": "240×240×155canopy 3 m×2.7",
+     "packing": "88*19*19",
+     "carton": "90*39*38  （4个装）",
+     "qtyPerCarton": "90*33*42    （6个装）",
+     "notes": "3*2.7"
+    },
+    {
+     "size": "tent 210×210×145canopy 3 m×2.7",
+     "packing": "78*17*17",
+     "carton": "80*48*33   （6个装）",
+     "qtyPerCarton": "80*48*32  （8个装）",
+     "fabric": "2.1M 5节*2根，风绳4根，地钉4根6MM*20CM"
+    }
+   ]
+  },
+  {
+   "id": "tn-tpu-air-beam-inflatable-tent",
+   "category": "tents",
+   "nameEn": "TPU Air-Beam Inflatable Tent",
+   "nameZh": "新型夹网TPU气柱  充气帐篷",
+   "coating": null,
+   "images": [
+    "/images/products/tn-tpu-air-beam-inflatable-tent-1.webp"
+   ],
+   "fabric": "420D加密 Oxford waterproof coating fabric, inner tent 篷90G height 弹涤纱 fabric, water column 600+, UPF50+ UV protection",
+   "accessories": "钢铁 steel pegs 10 pcs, guy lines 6 pcs 3M带 tensioner tabs, carry bag 1 pcs, 16-tube awning poles 1.6 m 1 pairs /6 sections, hammer 1 pcs",
+   "variants": [
+    {
+     "size": "2.2×2.2×1.7",
+     "packing": "78*31*32"
+    },
+    {
+     "size": "250×250×200M",
+     "packing": "78*36*33"
+    },
+    {
+     "size": "300×300×210M"
+    }
+   ]
+  },
+  {
+   "id": "tn-triple-peak-event-tent-20-8-6-m",
+   "category": "tents",
+   "nameEn": "Triple-Peak Event Tent 20×8.6 m",
+   "nameZh": "三峰20*8.6*4.5",
+   "coating": null,
+   "images": [
+    "/images/products/tn-triple-peak-event-tent-20-8-6-m-1.webp"
+   ],
+   "variants": [
+    {
+     "weightKg": "50.6",
+     "packing": "131*31*31"
+    }
+   ]
+  },
+  {
+   "id": "tn-true-double-layer-tent",
+   "category": "tents",
+   "nameEn": "True Double-Layer Tent",
+   "nameZh": "真双层",
+   "coating": null,
+   "images": [],
+   "variants": [
+    {
+     "size": "240×210×135",
+     "packing": "15*15*75",
+     "carton": "77*48*32/6个每件"
+    }
+   ]
+  },
+  {
+   "id": "tn-tunnel-canopy-tarp",
+   "category": "tents",
+   "nameEn": "Tunnel Canopy Tarp",
+   "nameZh": "隧道天幕",
+   "coating": null,
+   "images": [
+    "/images/products/tn-tunnel-canopy-tarp-1.webp"
+   ],
+   "accessories": "16-tube ×2 m height 2 pairs (4 pcs), 防雨帽1 pcs, 5.0×3 m guy lines 6 pcs, 6×23 steel pegs 8 pcs",
+   "variants": [
+    {
+     "size": "500×400×240"
+    }
+   ]
+  },
+  {
+   "id": "tn-tunnel-tent-end-windows-side-doors",
+   "category": "tents",
+   "nameEn": "Tunnel Tent (End Windows, Side Doors)",
+   "nameZh": "两头窗两侧门隧道帐",
+   "coating": null,
+   "images": [
+    "/images/products/tn-tunnel-tent-end-windows-side-doors-1.webp"
+   ],
+   "accessories": "fiberglass poles 435 m ×4 pcs, 145 door poles 2 pcs, 5×17的18 pcs, guy lines 3. m 10 pcs 带 tensioner tabs",
+   "variants": [
+    {
+     "size": "360×210×150"
+    }
+   ]
+  },
+  {
+   "id": "tn--2",
+   "category": "tents",
+   "nameEn": "大号 (二室一厅)",
+   "nameZh": "大号（二室一厅）",
+   "coating": null,
+   "images": [],
+   "accessories": "架 poles ×1: 16-tube steel poles, 四脚165/3 sections /2 pcs steel wire 连接 both ends 内塞, 中间175/3 sections /4 pcs both ends 内塞, door poles 170/3 sections /2 pcs 一头皮 sets, 一头 top 针; 横 poles 212/4 sections /2 pcs (both ends 空), 小号纤维 poles 9.5, 233×4 sections m² 头1 pcs, 390×7 sections m² 头2 pcs; flysheet ×1 inner tent ×1 4.0 guy lines 14 pcs,5×17 steel pegs ×20 carry bag ×1, 6 pcs corner joint +6 pcs 35CM绳",
+   "variants": [
+    {
+     "size": "inner tent 400×280×195 outer tent 410×290×200"
+    }
+   ]
+  },
+  {
+   "id": "tn-",
+   "category": "tents",
+   "nameEn": "小号 (一室一厅)",
+   "nameZh": "小号（一室一厅）",
+   "coating": null,
+   "images": [
+    "/images/products/tn--1.webp"
+   ],
+   "accessories": "架 poles ×1: 16-tube steel poles, 四脚140/3 sections /4 pcs steel wire 连接 both ends 内塞, 中间135/3 sections /2 pcs both ends 内塞, door poles 140/3 sections /2 pcs; 一头皮 sets, 一头 top 针, 小号 fiberglass poles 9.5, 219×5 sections m² 头1 pcs. 320×7 sections m² 头2 pcs; flysheet ×1 inner tent ×1 4.0 guy lines 14 pcs,5×17 steel pegs ×20 carry bag ×1, 6 pcs corner joint +6 pcs 35CM绳",
+   "variants": [
+    {
+     "size": "inner: 310×205x 182, outer: 325x 215x 190",
+     "weightKg": "10",
+     "packing": "60*24*24"
+    }
+   ]
+  },
+  {
+   "id": "cp-19mm-pole-canopy-tarp",
+   "category": "canopies",
+   "nameEn": "19mm Pole Canopy Tarp",
+   "nameZh": "19管车边天幕",
+   "coating": null,
+   "images": [
+    "/images/products/cp-19mm-pole-canopy-tarp-1.webp",
+    "/images/products/cp-19mm-pole-canopy-tarp-2.webp"
+   ],
+   "fabric": "Oxford silver-coated",
+   "poles": "19-tube 2.1 height steel poles",
+   "variants": [
+    {
+     "size": "200×300",
+     "weightKg": "3.18",
+     "packing": "15*15*66",
+     "carton": "68*32*47",
+     "qtyPerCarton": "6"
+    },
+    {
+     "size": "200×300",
+     "weightKg": "3.76",
+     "packing": "15*15*66",
+     "carton": "68*32*47",
+     "qtyPerCarton": "6",
+     "fabric": "黑胶"
+    }
+   ]
+  },
+  {
+   "id": "cp-25mm-pole-canopy-tarp",
+   "category": "canopies",
+   "nameEn": "25mm Pole Canopy Tarp",
+   "nameZh": "25管车边天幕",
+   "coating": null,
+   "images": [
+    "/images/products/cp-25mm-pole-canopy-tarp-1.webp",
+    "/images/products/cp-25mm-pole-canopy-tarp-2.webp"
+   ],
+   "fabric": "Oxford silver-coated",
+   "poles": "19-tube 2.1 height steel poles",
+   "notes": "with 25-tube 2.4 steel poles 加5元",
+   "variants": [
+    {
+     "size": "200×300",
+     "weightKg": "3.18",
+     "packing": "15*15*71.5",
+     "carton": "73*32*47",
+     "qtyPerCarton": "6",
+     "notes": "配25管2.4铁杆加5元"
+    },
+    {
+     "size": "200×300",
+     "weightKg": "3.76",
+     "packing": "15*15*71.5",
+     "carton": "73*32*47",
+     "qtyPerCarton": "6",
+     "fabric": "黑胶",
+     "notes": "25管2.4高铝杆加50"
+    }
+   ]
+  },
+  {
+   "id": "cp-butterfly-canopy-tarp-2",
+   "category": "canopies",
+   "nameEn": "Butterfly Canopy Tarp (Blackout)",
+   "nameZh": "蝶型",
+   "coating": "blackout",
+   "images": [
+    "/images/products/cp-butterfly-canopy-tarp-2-1.webp"
+   ],
+   "fabric": "Oxford blackout-coated, full blackout, PU6000+ mm waterproof, UPF50+ UV protection, steel pegs 6×23×8, reflective nylon guy lines 5.0×3m×8 pcs",
+   "poles": "steel poles 2.4",
+   "bag": "100% polyester",
+   "variants": [
+    {
+     "size": "4.4×3.4",
+     "weightKg": "5.15",
+     "packing": "15*15*71.5",
+     "carton": "73*28*41",
+     "qtyPerCarton": "6"
+    },
+    {
+     "size": "5.2×4.5",
+     "weightKg": "5.46",
+     "packing": "15*15*71.5",
+     "carton": "73*28*41",
+     "qtyPerCarton": "6"
+    },
+    {
+     "size": "4.4×4.4",
+     "weightKg": "4.9",
+     "packing": "15*15*71.5",
+     "carton": "73*28*41",
+     "qtyPerCarton": "6"
+    },
+    {
+     "size": "6×4.2",
+     "weightKg": "5.5",
+     "packing": "15*15*71.5",
+     "carton": "73*28*41",
+     "qtyPerCarton": "6"
+    }
+   ],
+   "specs": [
+    {
+     "label": "spec",
+     "value": "reflective nylon guy lines 5.0×3m×8 pcs"
+    }
+   ]
+  },
+  {
+   "id": "cp-butterfly-canopy-tarp",
+   "category": "canopies",
+   "nameEn": "Butterfly Canopy Tarp (Silver)",
+   "nameZh": "蝶型",
+   "coating": "silver",
+   "images": [
+    "/images/products/cp-butterfly-canopy-tarp-1.webp"
+   ],
+   "fabric": "Oxford silver-coated, PU2000+ mm waterproof, UPF50+ UV protection, steel pegs 6×23×8 pcs, reflective nylon guy lines 5.0×3m×8 pcs",
+   "poles": "steel poles 2.4",
+   "bag": "100% polyester",
+   "variants": [
+    {
+     "size": "4.4×3.4",
+     "weightKg": "4",
+     "packing": "15*15*71.5",
+     "carton": "73*28*41",
+     "qtyPerCarton": "6"
+    },
+    {
+     "size": "5.2×4.5",
+     "weightKg": "5",
+     "packing": "15*15*71.5",
+     "carton": "73*28*41",
+     "qtyPerCarton": "6"
+    },
+    {
+     "size": "4.4×4.4",
+     "weightKg": "4.53",
+     "packing": "15*15*71.5",
+     "carton": "73*28*41",
+     "qtyPerCarton": "6"
+    },
+    {
+     "size": "6×4.2",
+     "weightKg": "5.2",
+     "packing": "15*15*71.5",
+     "carton": "73*28*41",
+     "qtyPerCarton": "6"
+    }
+   ]
+  },
+  {
+   "id": "cp-canopy-tarp-6-8-m",
+   "category": "canopies",
+   "nameEn": "Canopy Tarp 6×8 m",
+   "nameZh": "天幕",
+   "coating": null,
+   "images": [
+    "/images/products/cp-canopy-tarp-6-8-m-1.webp"
+   ],
+   "fabric": "blackout-coated 420D",
+   "variants": [
+    {
+     "size": "6×8",
+     "weightKg": "8"
+    },
+    {
+     "size": "6×8",
+     "weightKg": "6",
+     "fabric": "银胶420D"
+    }
+   ]
+  },
+  {
+   "id": "cp-square-canopy-tarp-3",
+   "category": "canopies",
+   "nameEn": "Square Canopy Tarp",
+   "nameZh": "方型",
+   "coating": null,
+   "images": [],
+   "fabric": "blackout-coated",
+   "poles": "19-tube, 壁厚0.7, 2.1 height, steel poles /4栉, 6 pcs guy lines 6 pcs steel pegs",
+   "variants": [
+    {
+     "size": "3×3",
+     "weightKg": "3.18",
+     "packing": "13.5*13.5*62",
+     "carton": "64*43.5*27",
+     "qtyPerCarton": "6"
+    },
+    {
+     "size": "3×3",
+     "weightKg": "2.94",
+     "packing": "13.5*13.5*62",
+     "carton": "64*43.5*27",
+     "qtyPerCarton": "6",
+     "fabric": "银胶"
+    }
+   ]
+  },
+  {
+   "id": "cp-square-canopy-tarp-2",
+   "category": "canopies",
+   "nameEn": "Square Canopy Tarp (Blackout)",
+   "nameZh": "方型",
+   "coating": "blackout",
+   "images": [
+    "/images/products/cp-square-canopy-tarp-2-1.webp"
+   ],
+   "fabric": "Oxford blackout-coated, full blackout, PU6000+ mm waterproof, UPF50+ UV protection, steel pegs 6×23×8, reflective nylon guy lines 5.0×3m×8 pcs",
+   "poles": "steel poles 2.2",
+   "bag": "100% polyester",
+   "variants": [
+    {
+     "size": "4×3.4",
+     "weightKg": "4.2",
+     "packing": "15*15*69",
+     "carton": "71*28*41",
+     "qtyPerCarton": "6"
+    },
+    {
+     "size": "5×3.4",
+     "weightKg": "5.15",
+     "packing": "15*15*69",
+     "carton": "71*28*41",
+     "qtyPerCarton": "6"
+    },
+    {
+     "size": "3×4",
+     "weightKg": "4.5",
+     "packing": "15*15*69",
+     "carton": "71*28*41",
+     "qtyPerCarton": "6"
+    },
+    {
+     "size": "3×5",
+     "weightKg": "4.5",
+     "packing": "15*15*69",
+     "carton": "71*28*41",
+     "qtyPerCarton": "6"
+    }
+   ],
+   "specs": [
+    {
+     "label": "spec",
+     "value": "reflective nylon guy lines 5.0×3m×8 pcs"
+    }
+   ]
+  },
+  {
+   "id": "cp-square-canopy-tarp",
+   "category": "canopies",
+   "nameEn": "Square Canopy Tarp (Silver)",
+   "nameZh": "方型",
+   "coating": "silver",
+   "images": [
+    "/images/products/cp-square-canopy-tarp-1.webp"
+   ],
+   "fabric": "Oxford silver-coated, PU2000+ mm waterproof, UPF50+ UV protection, steel pegs 6×23×8 pcs, reflective nylon guy lines 5.0×3m×8 pcs",
+   "poles": "steel poles 2.2",
+   "bag": "100% polyester",
+   "notes": "canopy poles 2 pcs (with pole bag), glow-in-the-dark guy lines 8 pcs, guy lines with cord tensioners,, steel pegs 8 pcs (with steel pegs bag), carry bag 1 pcs",
+   "variants": [
+    {
+     "size": "4×3.4",
+     "weightKg": "4.2",
+     "packing": "15*15*69",
+     "carton": "71*28*41",
+     "qtyPerCarton": "6",
+     "notes": "天幕杆两根（配杆子袋），夜光风绳8根，风绳有调节扣，，地钉8根（配地钉袋），外袋一个"
+    },
+    {
+     "size": "5×3.4",
+     "weightKg": "4.6",
+     "packing": "15*15*69",
+     "carton": "71*28*41",
+     "qtyPerCarton": "6"
+    },
+    {
+     "size": "3×4",
+     "weightKg": "4.3",
+     "packing": "15*15*69",
+     "carton": "71*28*41",
+     "qtyPerCarton": "6"
+    },
+    {
+     "size": "3×5",
+     "weightKg": "4.5",
+     "packing": "15*15*69",
+     "carton": "71*28*41",
+     "qtyPerCarton": "6"
+    }
+   ]
+  },
+  {
+   "id": "ac-8-7-cart-15",
+   "category": "accessories",
+   "nameEn": "8.7寸 Cart的桌板 (15块板)",
+   "nameZh": "8.7寸推车的桌板（15块板）",
+   "coating": null,
+   "images": [],
+   "variants": [
+    {},
+    {}
+   ]
+  },
+  {
+   "id": "ac-adjustable-guy-ropes",
+   "category": "accessories",
+   "nameEn": "Adjustable Guy Ropes",
+   "nameZh": "调解绳",
+   "coating": null,
+   "images": [
+    "/images/products/ac-adjustable-guy-ropes-1.webp"
+   ],
+   "variants": [
+    {
+     "unit": "8 pcs"
+    }
+   ]
+  },
+  {
+   "id": "ac-aluminum-kermit-chair-l",
+   "category": "accessories",
+   "nameEn": "Aluminum Kermit Chair L",
+   "nameZh": "铝合金克米特大号椅",
+   "coating": null,
+   "images": [],
+   "variants": [
+    {}
+   ]
+  },
+  {
+   "id": "ac-aluminum-kermit-chair-m",
+   "category": "accessories",
+   "nameEn": "Aluminum Kermit Chair M",
+   "nameZh": "铝合金克米特中号椅",
+   "coating": null,
+   "images": [],
+   "variants": [
+    {}
+   ]
+  },
+  {
+   "id": "ac-aluminum-peg-bag",
+   "category": "accessories",
+   "nameEn": "Aluminum Peg Bag",
+   "nameZh": "铝地钉袋",
+   "coating": null,
+   "images": [],
+   "variants": [
+    {
+     "unit": "8 pcs"
+    }
+   ]
+  },
+  {
+   "id": "ac-aluminum-roll-up-table-120-cm",
+   "category": "accessories",
+   "nameEn": "Aluminum Roll-Up Table 120 cm",
+   "nameZh": "铝合金蛋卷桌120CM",
+   "coating": null,
+   "images": [
+    "/images/products/ac-aluminum-roll-up-table-120-cm-1.webp"
+   ],
+   "notes": "75×22×16",
+   "variants": [
+    {
+     "size": "120×60×45",
+     "unit": "1 pcs",
+     "weightKg": "4.8kg",
+     "notes": "75*22*16"
+    }
+   ]
+  },
+  {
+   "id": "ac-aluminum-roll-up-table-60-cm",
+   "category": "accessories",
+   "nameEn": "Aluminum Roll-Up Table 60 cm",
+   "nameZh": "铝蛋卷桌60CM",
+   "coating": null,
+   "images": [],
+   "variants": [
+    {
+     "unit": "1 pcs"
+    }
+   ]
+  },
+  {
+   "id": "ac-aluminum-roll-up-table-90-cm",
+   "category": "accessories",
+   "nameEn": "Aluminum Roll-Up Table 90 cm",
+   "nameZh": "铝合金蛋卷桌90CM",
+   "coating": null,
+   "images": [],
+   "notes": "91×22×12",
+   "variants": [
+    {
+     "size": "90×60×45",
+     "unit": "1 pcs",
+     "notes": "91*22*12"
+    }
+   ]
+  },
+  {
+   "id": "ac-camping-cart-5-narrow-wheels",
+   "category": "accessories",
+   "nameEn": "Camping Cart (5\" Narrow Wheels)",
+   "nameZh": "5寸窄轮",
+   "coating": null,
+   "images": [],
+   "variants": [
+    {
+     "unit": "1"
+    }
+   ]
+  },
+  {
+   "id": "ac-camping-cart-10-wheels",
+   "category": "accessories",
+   "nameEn": "Camping Cart 10\" Wheels",
+   "nameZh": "10寸露营车",
+   "coating": null,
+   "images": [
+    "/images/products/ac-camping-cart-10-wheels-1.webp"
+   ],
+   "variants": [
+    {
+     "size": "90×48×110",
+     "unit": "10寸 camping cart"
+    }
+   ]
+  },
+  {
+   "id": "ac-camping-cart-5-wheels",
+   "category": "accessories",
+   "nameEn": "Camping Cart 5\" Wheels",
+   "nameZh": "5寸露营车",
+   "coating": null,
+   "images": [
+    "/images/products/ac-camping-cart-5-wheels-1.webp"
+   ],
+   "variants": [
+    {
+     "size": "50×37.5×83",
+     "unit": "5寸 camping cart"
+    }
+   ]
+  },
+  {
+   "id": "ac-camping-cart-7-wheels",
+   "category": "accessories",
+   "nameEn": "Camping Cart 7\" Wheels",
+   "nameZh": "7寸露营车",
+   "coating": null,
+   "images": [
+    "/images/products/ac-camping-cart-7-wheels-1.webp"
+   ],
+   "variants": [
+    {
+     "size": "88×52×100",
+     "unit": "7寸 camping cart"
+    }
+   ]
+  },
+  {
+   "id": "ac-camping-lantern",
+   "category": "accessories",
+   "nameEn": "Camping Lantern",
+   "nameZh": "露营灯",
+   "coating": null,
+   "images": [
+    "/images/products/ac-camping-lantern-1.webp"
+   ],
+   "notes": "0.5KG",
+   "variants": [
+    {
+     "size": "81×87×124 (180) mm",
+     "unit": "ABS material",
+     "weightKg": "225g不含电池，工作5小时",
+     "notes": "0.5KG"
+    }
+   ]
+  },
+  {
+   "id": "ac-camping-pillow-l",
+   "category": "accessories",
+   "nameEn": "Camping Pillow L",
+   "nameZh": "枕头大号",
+   "coating": null,
+   "images": [
+    "/images/products/ac-camping-pillow-l-1.webp"
+   ],
+   "variants": [
+    {
+     "size": "38×24"
+    }
+   ]
+  },
+  {
+   "id": "ac-camping-pillow-m",
+   "category": "accessories",
+   "nameEn": "Camping Pillow M",
+   "nameZh": "枕头中号",
+   "coating": null,
+   "images": [],
+   "variants": [
+    {
+     "size": "34×22"
+    }
+   ]
+  },
+  {
+   "id": "ac-canopy-poles-22-mm",
+   "category": "accessories",
+   "nameEn": "Canopy Poles 22 mm",
+   "nameZh": "22杆",
+   "coating": null,
+   "images": [
+    "/images/products/ac-canopy-poles-22-mm-1.webp"
+   ],
+   "variants": [
+    {
+     "unit": "2 pcs (8 sections)"
+    }
+   ]
+  },
+  {
+   "id": "ac-canopy-poles-25-mm",
+   "category": "accessories",
+   "nameEn": "Canopy Poles 25 mm",
+   "nameZh": "25杆",
+   "coating": null,
+   "images": [],
+   "variants": [
+    {
+     "unit": "2 pcs (8 sections)"
+    }
+   ]
+  },
+  {
+   "id": "ac-carry-bag",
+   "category": "accessories",
+   "nameEn": "Carry Bag",
+   "nameZh": "外袋",
+   "coating": null,
+   "images": [
+    "/images/products/ac-carry-bag-1.webp"
+   ],
+   "variants": [
+    {
+     "unit": "1 pcs"
+    }
+   ]
+  },
+  {
+   "id": "ac-cord-tensioners",
+   "category": "accessories",
+   "nameEn": "Cord Tensioners",
+   "nameZh": "调节扣",
+   "coating": null,
+   "images": [],
+   "variants": [
+    {
+     "unit": "8 pcs"
+    }
+   ]
+  },
+  {
+   "id": "ac-extended-steel-pegs",
+   "category": "accessories",
+   "nameEn": "Extended Steel Pegs",
+   "nameZh": "加长地钉",
+   "coating": null,
+   "images": [],
+   "variants": [
+    {
+     "size": "10.4",
+     "unit": "1 pcs"
+    }
+   ]
+  },
+  {
+   "id": "ac-folding-chair-l",
+   "category": "accessories",
+   "nameEn": "Folding Chair L",
+   "nameZh": "大号折叠椅",
+   "coating": null,
+   "images": [],
+   "variants": [
+    {
+     "size": "36×36×58"
+    }
+   ]
+  },
+  {
+   "id": "ac-folding-chair-s",
+   "category": "accessories",
+   "nameEn": "Folding Chair S",
+   "nameZh": "小折叠椅",
+   "coating": null,
+   "images": [],
+   "variants": [
+    {
+     "size": "33×33×53"
+    }
+   ]
+  },
+  {
+   "id": "ac-ground-mat-2-1-5-m",
+   "category": "accessories",
+   "nameEn": "Ground Mat 2×1.5 m",
+   "nameZh": "防潮垫2*1.5",
+   "coating": null,
+   "images": [],
+   "notes": "2×1.5单 pcs 大小50×25×5, 70 pcs 1件100x90X50",
+   "variants": [
+    {
+     "size": "2×1.5",
+     "unit": "1",
+     "weightKg": "0.2KG",
+     "notes": "2*1.5单个大小50*25*5、70个1件100x90X50"
+    }
+   ]
+  },
+  {
+   "id": "ac-ground-mat-2-1-85-m",
+   "category": "accessories",
+   "nameEn": "Ground Mat 2×1.85 m",
+   "nameZh": "防潮垫2*1.85",
+   "coating": null,
+   "images": [],
+   "notes": "2×1.85的75 pcs 一 bag size 110×90×50",
+   "variants": [
+    {
+     "notes": "2*1.85的75个一袋尺寸110*90*50"
+    }
+   ]
+  },
+  {
+   "id": "ac-ground-mat-2-2-m",
+   "category": "accessories",
+   "nameEn": "Ground Mat 2×2 m",
+   "nameZh": "防潮垫2*2",
+   "coating": null,
+   "images": [
+    "/images/products/ac-ground-mat-2-2-m-1.webp"
+   ],
+   "notes": "2×2防潮垫一 bag 60 pcs 110x87x50",
+   "variants": [
+    {
+     "size": "2×2",
+     "unit": "1",
+     "weightKg": "0.25KG",
+     "notes": "2*2防潮垫一袋60个110x87x50"
+    }
+   ]
+  },
+  {
+   "id": "ac-hammock",
+   "category": "accessories",
+   "nameEn": "Hammock",
+   "nameZh": "吊床",
+   "coating": null,
+   "images": [],
+   "notes": "绑绳, 自封 bag",
+   "variants": [
+    {
+     "size": "170×70",
+     "weightKg": "0.61KG",
+     "notes": "绑绳，自封袋"
+    }
+   ]
+  },
+  {
+   "id": "ac-hexagon-ground-mat-2-2-2-2",
+   "category": "accessories",
+   "nameEn": "Hexagon Ground Mat 2.2×2.2",
+   "nameZh": "小六角防潮垫",
+   "coating": null,
+   "images": [],
+   "variants": [
+    {
+     "size": "2.2×2.2",
+     "weightKg": "0.25KG"
+    }
+   ]
+  },
+  {
+   "id": "ac-hexagon-ground-mat-2-7-2-7",
+   "category": "accessories",
+   "nameEn": "Hexagon Ground Mat 2.7×2.7",
+   "nameZh": "大六角防潮垫",
+   "coating": null,
+   "images": [],
+   "variants": [
+    {
+     "size": "2.7×2.7",
+     "weightKg": "0.3KG"
+    }
+   ]
+  },
+  {
+   "id": "ac-inflatable-sleeping-pad",
+   "category": "accessories",
+   "nameEn": "Inflatable Sleeping Pad",
+   "nameZh": "充气垫",
+   "coating": null,
+   "images": [
+    "/images/products/ac-inflatable-sleeping-pad-1.webp",
+    "/images/products/ac-inflatable-sleeping-pad-2.webp"
+   ],
+   "variants": [
+    {
+     "size": "192×67×3cm",
+     "unit": "3CM款单人",
+     "weightKg": "1KG 盒子：0.28KG"
+    },
+    {
+     "size": "192×132×3cm",
+     "unit": "3CM款双人",
+     "weightKg": "68*18*18独立箱规(2.7KG)",
+     "notes": "67*36*46外箱6个装没内箱"
+    },
+    {
+     "size": "192×157×3cm",
+     "unit": "3CM款三人"
+    },
+    {
+     "size": "192×67×5cm",
+     "unit": "5CM款单人",
+     "weightKg": "1.5KG 盒子：0.3KG",
+     "notes": "单人5cm，单独纸箱包装，每箱装9个（68.5*51*51cm）"
+    },
+    {
+     "size": "192×132×5cm",
+     "unit": "5CM款双人",
+     "weightKg": "3.75KG。 盒子：0.7KG",
+     "notes": "执行标准 GB 18401-2010（B类）"
+    },
+    {
+     "size": "192×157×5cm",
+     "unit": "5CM款三人"
+    }
+   ]
+  },
+  {
+   "id": "ac-moon-chair",
+   "category": "accessories",
+   "nameEn": "Moon Chair",
+   "nameZh": "月亮椅",
+   "coating": null,
+   "images": [
+    "/images/products/ac-moon-chair-1.webp",
+    "/images/products/ac-moon-chair-2.webp"
+   ],
+   "notes": "moon chair carton size 18×15×68",
+   "variants": [
+    {
+     "size": "black, desert yellow 45×45×65",
+     "weightKg": "2.6KG",
+     "notes": "月亮椅箱规18*15*68"
+    }
+   ]
+  },
+  {
+   "id": "ac-non-woven-picnic-mat",
+   "category": "accessories",
+   "nameEn": "Non-woven Picnic Mat",
+   "nameZh": "无纺布野餐垫2*1.5",
+   "coating": null,
+   "images": [],
+   "variants": [
+    {
+     "size": "1×1.5",
+     "unit": "1",
+     "weightKg": "0.2KG"
+    }
+   ]
+  },
+  {
+   "id": "ac-off-road-camping-cart-l-7-8-wheels",
+   "category": "accessories",
+   "nameEn": "Off-Road Camping Cart L (7\"/8\" Wheels)",
+   "nameZh": "推车越野款大号7/8寸双刹万向轮",
+   "coating": null,
+   "images": [
+    "/images/products/ac-off-road-camping-cart-l-7-8-wheels-1.webp"
+   ],
+   "variants": [
+    {
+     "size": "black, m色",
+     "unit": "1",
+     "weightKg": "11KG"
+    }
+   ]
+  },
+  {
+   "id": "ac-oxford-picnic-mat-1-1-5-m",
+   "category": "accessories",
+   "nameEn": "Oxford Picnic Mat 1×1.5 m",
+   "nameZh": "牛津布野餐垫1*1.5",
+   "coating": null,
+   "images": [
+    "/images/products/ac-oxford-picnic-mat-1-1-5-m-1.webp"
+   ],
+   "variants": [
+    {
+     "unit": "1",
+     "weightKg": "0.5KG"
+    }
+   ]
+  },
+  {
+   "id": "ac-oxford-picnic-mat-2-1-5-m",
+   "category": "accessories",
+   "nameEn": "Oxford Picnic Mat 2×1.5 m",
+   "nameZh": "牛津布野餐垫2*1.5",
+   "coating": null,
+   "images": [],
+   "variants": [
+    {
+     "unit": "1",
+     "weightKg": "1"
+    }
+   ]
+  },
+  {
+   "id": "ac-pole-bag",
+   "category": "accessories",
+   "nameEn": "Pole Bag",
+   "nameZh": "杆子袋",
+   "coating": null,
+   "images": [],
+   "variants": [
+    {
+     "unit": "2 pcs"
+    }
+   ]
+  },
+  {
+   "id": "ac-steel-folding-table-120-cm",
+   "category": "accessories",
+   "nameEn": "Steel Folding Table 120 cm",
+   "nameZh": "铁桌120",
+   "coating": null,
+   "images": [],
+   "variants": [
+    {
+     "size": "120×60×45",
+     "weightKg": "7.5KG"
+    }
+   ]
+  },
+  {
+   "id": "ac-steel-folding-table-90-cm",
+   "category": "accessories",
+   "nameEn": "Steel Folding Table 90 cm",
+   "nameZh": "铁桌90",
+   "coating": null,
+   "images": [],
+   "variants": [
+    {
+     "size": "90×60×45",
+     "weightKg": "5.2"
+    }
+   ]
+  },
+  {
+   "id": "ac-steel-kermit-chair-l",
+   "category": "accessories",
+   "nameEn": "Steel Kermit Chair L",
+   "nameZh": "铁克米特大号椅大号51*50*76",
+   "coating": null,
+   "images": [
+    "/images/products/ac-steel-kermit-chair-l-1.webp",
+    "/images/products/ac-steel-kermit-chair-l-2.webp"
+   ],
+   "notes": "600D Oxford fabric + carbon steel -tube",
+   "variants": [
+    {
+     "size": "55×7.5×76 (3.02KG)",
+     "unit": "1 pcs",
+     "weightKg": "305KG",
+     "notes": "600D牛津布+碳钢管"
+    }
+   ]
+  },
+  {
+   "id": "ac-steel-kermit-chair-m",
+   "category": "accessories",
+   "nameEn": "Steel Kermit Chair M",
+   "nameZh": "铁克米特中号椅52*42*64",
+   "coating": null,
+   "images": [],
+   "variants": [
+    {
+     "size": "55×9×58 (3.05kg)",
+     "unit": "1",
+     "weightKg": "3.02KG"
+    }
+   ]
+  },
+  {
+   "id": "ac-steel-peg-bag",
+   "category": "accessories",
+   "nameEn": "Steel Peg Bag",
+   "nameZh": "铁地钉袋",
+   "coating": null,
+   "images": [],
+   "variants": [
+    {
+     "unit": "8 pcs"
+    }
+   ]
+  },
+  {
+   "id": "ac-suction-cup",
+   "category": "accessories",
+   "nameEn": "Suction Cup",
+   "nameZh": "吸盘",
+   "coating": null,
+   "images": [
+    "/images/products/ac-suction-cup-1.webp"
+   ],
+   "variants": [
+    {}
+   ]
+  }
+ ]
+}
